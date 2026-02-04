@@ -242,3 +242,5 @@ Although not diving into ML algorithms, knowing these Python features supports t
 * Config management (Hydra, Python config)
 * CLI tools (`argparse`, `click`, `typer`)
 * Building reusable ML utilities
+
+## Thanks
